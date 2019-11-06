@@ -1,7 +1,7 @@
 # beat-the-meat
 2D Platformer Survival game. Entry for Scream Jam 19.
 
-========Introduction=========
+##Introduction
 
 This is a game our team made for the annual horror-filled Scream Jam 2019.
 Run to the top before the Wall Of Flesh can grab your feet!
@@ -12,7 +12,7 @@ Submission page: https://itch.io/jam/scream-jam-2019/rate/502924
 This game is made by team North East Jam Junkies.
 Engine used: Unity 2018.3.14f1
 
-========Credits==========
+##Credits
 
 Programming
 	Isaac Tran
@@ -33,7 +33,7 @@ Playtesting
 Sounds
 	Ashleigh Allan
 
-========Controls==========
+##Controls
 
   Move Left/Right: A, D
   Jump: S
