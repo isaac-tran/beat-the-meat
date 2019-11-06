@@ -1,7 +1,7 @@
 # beat-the-meat
 2D Platformer Survival game. Entry for Scream Jam 19.
 
-========Introduction=========
+========Introduction=========\n
 This is a game our team made for the annual horror-filled Scream Jam 2019.
 Run to the top before the Wall Of Flesh can grab your feet!
 Have fun running! :D
