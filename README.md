@@ -12,6 +12,9 @@ Submission page: https://itch.io/jam/scream-jam-2019/rate/502924 <br>
 This game is made by team North East Jam Junkies. <br>
 Engine used: Unity 2018.3.14f1 <br>
 
+## How to get the game
+Please download the 3 zip files above and put them in the same folder. You can then extract them with WINRAR.
+
 ## Credits
 
 ### Programming <br>
