@@ -18,24 +18,24 @@ Please download the 3 zip files above and put them in the same folder. You can t
 ## Credits
 
 ### Programming <br>
-	Isaac Tran <br>
-	Dominic Vent <br>
+	Isaac Tran 
+	Dominic Vent 
 
 ### Art <br>
-	Ben Whittaker <br>
+	Ben Whittaker 
 
 ### Level Design <br>
-	Dominic Vent <br>
-	Ashleigh Allan <br>
+	Dominic Vent 
+	Ashleigh Allan 
 
 ### Playtesting <br>
-	Ben Whittaker <br> 
-	Dominic Vent <br>
-	Ashleigh Allan <br>
+	Ben Whittaker 
+	Dominic Vent 
+	Ashleigh Allan 
 
 ### Sounds <br>
-	Ashleigh Allan <br>
+	Ashleigh Allan 
 
 ## Controls <br>
-  Move Left/Right: A, D <br>
-  Jump: S
+	Move Left/Right: A, D 
+	Jump: S
