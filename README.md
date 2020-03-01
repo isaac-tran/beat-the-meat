@@ -27,6 +27,8 @@ with changes here and there in other scripts.
 
 For GameManager and PlayerManager I have based my code on Unity's Tanks tutorial (which was very informative on game flow and screen transitions), and for PlayerMovement (especially jumping) I've learned through watching a lot of tutorials (Brackeys comes to mind) and reading on ground detection/collision when jumping.
 
+Code was last reviewed on Oct 21st, 2019.
+
 ## Credits
 
 ### Programming <br>
